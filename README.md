@@ -1,5 +1,6 @@
 # Strask Layout
 A custom keyboard layout optimized for the Polish language.
+![layout](https://github.com/Nakeyan/Strask-layout/blob/main/img/Snapshot_2025-03-16_01-56-14.png?raw=true)
 
 ## Installation Guide (Linux - X11)
 *Wayland support coming soon!*
