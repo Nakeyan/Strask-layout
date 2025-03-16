@@ -36,8 +36,3 @@ setxkbmap -layout pl -variant custom
 or go to your settings if you have DE and add Layout named Polish (KSTRDP/Strask)
 
 Your Strask layout should now be available and ready to use!
-
----
-
-Let me know if you need any additional refinements or if you want to add troubleshooting tips! 🚀
-
