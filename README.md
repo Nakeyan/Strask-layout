@@ -40,3 +40,21 @@ setxkbmap -layout pl -variant custom
 or go to your settings if you have DE and add Layout named Polish (KSTRDP/Strask)
 
 Your Strask layout should now be available and ready to use!
+
+## Installation Guide (Windows 7 - 11)
+
+### Step 1: Download the Layout
+1. Download the `strask.klc` file from the `Windows` folder.
+
+### Step 2: Download the MSKLC 
+1. Open the `https://www.microsoft.com/en-US/download/details.aspx?id=102134` page and click download and install it on your Windows Machine
+
+### Step 3: Open MSKLC
+1. Open MSKLC then go to the "File" and open `strask.klc` which you downloaded. 
+2. After that you need go to "Project" and click `Build DLL and Setup Package`
+
+### Step 3: Settings
+1. Go to your settings and click Time and Language "Czas i język" and go to Language tab "Język"
+2. Then click on Polish "Polski" and click Options "Opcje" you will see Keyboards "Klawiatury" and click Add keyboard "Dodaj klawiaturę" and find Polish (Strask) "Sometimes there is a bug and you need to reboot your PC to use Keyboard layout"
+
+Your Strask layout should now be available and ready to use!
