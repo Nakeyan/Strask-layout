@@ -23,7 +23,7 @@ A custom keyboard layout optimized for the Polish language.
    <variant>
      <configItem>
        <name>custom</name>
-       <description>Polish (KSTRDP/Strask)</description>
+       <description>Polish (STRASK)</description>
      </configItem>
    </variant>
    ```
