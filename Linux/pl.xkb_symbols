@@ -581,7 +581,6 @@ xkb_symbols "glagolica"
 };
 
 //Strask-layout by Nakeyan, https://github.com/Nakeyan/Strask-layout/
-
 partial alphanumeric_keys
 xkb_symbols "custom"
 {
@@ -601,43 +600,43 @@ xkb_symbols "custom"
     key <AE11> { [ minus, underscore ] };
     key <AE12> { [ equal, plus ] };
 
-    key <AD01> { [ k, K ] };
-    key <AD02> { [ s, S, sacute, Sacute ] };
-    key <AD03> { [ t, T ] };
-    key <AD04> { [ r, R, copyright, registered ] };
-    key <AD05> { [ d, D, eth, ETH ] };
-    key <AD06> { [ p, P, thorn, THORN ] };
-    key <AD07> { [ u, U, Down, Up ] };
-    key <AD08> { [ j, J, schwa, SCHWA ] };
+    key <AD01> { [ s, S, sacute, Sacute ] };
+    key <AD02> { [ k, K ] };
+    key <AD03> { [ r, R, copyright, registered ] };
+    key <AD04> { [ m, M ] };
+    key <AD05> { [ d, D ] };
+    key <AD06> { [ p, P ] };
+    key <AD07> { [ u, U ] };
+    key <AD08> { [ j, J ] };
     key <AD09> { [ l, L, lstroke, Lstroke ] };
-    key <AD10> { [ g, G, eng, ENG ] };
+    key <AD10> { [ g, G ] };
     key <AD11> { [ semicolon, colon ] };
     key <AD12> { [ bracketleft, braceleft ] };
     key <BKSL> { [ bracketright, braceright ] };
 
-    key <AC01> { [ i, I, Right, Left ] };
+    key <AC01> { [ a, A, aogonek, Aogonek ] };
     key <AC02> { [ e, E, eogonek, Eogonek ] };
     key <AC03> { [ o, O, oacute, Oacute ] };
-    key <AC04> { [ a, A, aogonek, Aogonek ] };
+    key <AC04> { [ i, I, zacute, Zacute ] };
     key <AC05> { [ z, Z, zabovedot, Zabovedot ] };
-    key <AC06> { [ m, M, zacute, Zacute ] };
-    key <AC07> { [ n, N, nacute, Nacute ] };
+    key <AC06> { [ n, N, nacute, Nacute ] };
+    key <AC07> { [ t, T ] };
     key <AC08> { [ c, C, cacute, Cacute ] };
-    key <AC09> { [ w, W, oe, OE ] };
+    key <AC09> { [ w, W ] };
     key <AC10> { [ y, Y ] };
     key <AC11> { [ apostrophe, quotedbl ] };
     key <RTRN> { [ Return ] };
 
-    key <AB01> { [ x, X, mu, infinity ] };
-    key <AB02> { [ q, Q, pi, Omega ] };
-    key <AB03> { [ v, V, doublelowquotemark, leftsinglequotemark ] };
+    key <AB01> { [ x, X ] };
+    key <AB02> { [ v, V ] };
+    key <AB03> { [ q, Q, doublelowquotemark, leftsinglequotemark ] };
     key <AB04> { [ b, B, rightdoublequotemark, leftdoublequotemark ] };
     key <AB05> { [ h, H, rightsinglequotemark, bullet ] };
-    key <AB06> { [ f, F, ae, AE ] };
-    key <AB07> { [ r, R ] };
-    key <AB08> { [ quotedbl, less, lessthanequal, multiply ] };
-    key <AB09> { [ comma, greater, greaterthanequal, division ] };
-    key <AB10> { [ period, slash, question ] };
+    key <AB06> { [ f, F ] };
+    key <AB07> { [ backslash, bar ] };
+    key <AB08> { [ comma, less ] };
+    key <AB09> { [ period, greater ] };
+    key <AB10> { [ slash, question ] };
 
     key <SPCE> { [ space, space, nobreakspace, nobreakspace ] };
 
