@@ -590,7 +590,7 @@ xkb_symbols "custom"
     key <AE01> { [ 1, exclam ] };
     key <AE02> { [ 2, at ] };
     key <AE03> { [ 3, numbersign ] };
-    key <AE04> { [ 4, dollar ] };
+    key <AE04> { [ 4, euro ] };
     key <AE05> { [ 5, percent ] };
     key <AE06> { [ 6, asciicircum ] };
     key <AE07> { [ 7, ampersand ] };
